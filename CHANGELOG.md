@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.0 (beta) — 25 Oct 2026
+
+- **Android app** (Android 8 or later): screen time from Android's own usage log, the same Today, Apps, Goals and Subscriptions tabs, Google sign-in, and a floating 3D companion that snaps to either edge and shows the app you are on.
+- Mac: Dynamic Island now follows the shape of the notch.
+
 ## 0.1.0 (beta) — 25 Oct 2026
 
 First public beta, macOS only.
